@@ -6,4 +6,5 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:  
   * GitGameRote, [oo.or.id](https://oor.or.id).
   * Hasnan Fernanflo, [Linkedin](https://www.linkedin.com/in/hasnan-fernanflo-a83574203/).
+  * tes
 
